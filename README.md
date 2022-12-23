@@ -13,14 +13,26 @@
 <p align="center">
   <img alt="home page do projeto" src=".github/home-page.svg" width="100%">
 </p>
+<br>
+ 
+## Tecnologias
+---
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- Git e Github
+
 
 <br>
 
-## 💻 Projeto
+##  Projeto
+---
   - O Projeto foi criado em cima de um site de um comércio de Barbearia 
   <br>
   Onde o Cliente pode acessar o site e conhecer um pouco sobre o comércio 
   <br>
+  <br>
   Como trabalham, Contato, Localização, Valores e Horários de atendimentos.
 
-  [Acesse o Projeto]
+  [Acesse o Projeto](https://allesoares95.github.io/projeto-alura-barbearia/)
