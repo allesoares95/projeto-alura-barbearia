@@ -21,4 +21,4 @@
   <br>
   Onde o Cliente pode acessar o site e conhecer um pouco sobre o comércio 
   <br>
-  Como trabalham, Localização, Valores e Horários de atendimentos 
+  Como trabalham, Contato, Localização, Valores e Horários de atendimentos.
