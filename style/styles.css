@@ -167,8 +167,7 @@ th, td {
     width: 100%;
     text-align: center;
     position: static;
-    margin: auto;
-    margin-bottom: 15px;
+    margin: 15px;
   }
 
   form label, fieldset{
