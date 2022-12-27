@@ -151,3 +151,39 @@ th, td {
   border: 1px solid #000000;
   padding: 8px 15px;
 }
+
+@media screen and (min-width: 480px) {
+  .caixa {
+    text-align: center;
+    width: auto;
+  }
+
+  nav {
+    text-align: center;
+    position: static;
+  }
+
+  .produtos li {
+    width: 100%;
+    text-align: center;
+    position: static;
+    margin-bottom: 15px;
+  }
+
+  form label, fieldset{
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .input-padrao, .enviar{
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+  }
+
+  table {
+    margin: auto;
+    margin-bottom: 15px;
+  }
+  
+}
